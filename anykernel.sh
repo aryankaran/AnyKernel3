@@ -20,7 +20,7 @@ device.name7=santoni
 device.name8=ugg
 device.name9=ugglite
 device.name10=ulysse
-supported.versions=8.1.0 - 11
+supported.versions=8.1.0 - 12
 supported.patchlevels=
 '; } # end properties
 

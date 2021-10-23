@@ -10,8 +10,8 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=onclite
-device.name2=onc
+device.name1=rolex
+device.name2=riva
 supported.versions=
 supported.patchlevels=
 '; } # end properties

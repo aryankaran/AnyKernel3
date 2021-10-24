@@ -12,6 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=rolex
 device.name2=riva
+device.name2=tiare
 supported.versions=
 supported.patchlevels=
 '; } # end properties
